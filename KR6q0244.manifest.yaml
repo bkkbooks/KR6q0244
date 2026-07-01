@@ -1,0 +1,673 @@
+canonical_identifier: bkk:krp/KR6q0244/v1
+canonical_location: https://kanripo.org/bkk/KR6q0244/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 禪宗頌古聯珠通集
+  identifiers:
+    alt_id:
+    - C078n1720
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/C/C078/C078n1720.xml
+    old_id: C078n1720
+  edition:
+    short: bkk
+editions:
+- short: 中華
+  label: 中華
+  source_xml_id: wit.orig
+- short: C
+assets:
+  parts:
+  - {seq: 0, filename: KR6q0244_000.yaml, hash: 'sha256:1976b535de1dabb78614b57a50bbf821e623ee856cf1e9d5d2670bf97053b41d'}
+  - {seq: 1, filename: KR6q0244_001.yaml, hash: 'sha256:30cd4aecb9b708464ed9b621a5379aa01af499e00b53d684478e1b6f0d9cccd0'}
+  - {seq: 2, filename: KR6q0244_002.yaml, hash: 'sha256:d387df1121ea83439cc07b2a314269251bf45d1eb01813a8f73f21d1048786bf'}
+  - {seq: 3, filename: KR6q0244_003.yaml, hash: 'sha256:a2834254e67001802e9e582d4fd9193725386befec82d1bd3bab6ff26d04945a'}
+  - {seq: 4, filename: KR6q0244_004.yaml, hash: 'sha256:e30f28d36c47dcb7d6315df1f571c6c188350582648a21670172cee563e47a13'}
+  - {seq: 5, filename: KR6q0244_005.yaml, hash: 'sha256:e5f4fc43701449897c41210fe50169fb6582464e71c9ccd7b673b59ddd521853'}
+  - {seq: 6, filename: KR6q0244_006.yaml, hash: 'sha256:32e2552ea3a40123f771cb17bd957df750ec01e5181b46d2955eb2bb9dd7d371'}
+  - {seq: 7, filename: KR6q0244_007.yaml, hash: 'sha256:788c1868941f12bdfbf86b1158eec28d0b6f7551478367bc3fc0b8f5921cf0aa'}
+  - {seq: 8, filename: KR6q0244_008.yaml, hash: 'sha256:26a8382cfceace0956d708f09c5c541e5e8157e62ca8fe6a34e1841e35a56dfe'}
+  - {seq: 9, filename: KR6q0244_009.yaml, hash: 'sha256:451cef6b98ad6892c4bd9f003143676c8f28ba19eaabc8ecab2c8f12df342b24'}
+  - {seq: 10, filename: KR6q0244_010.yaml, hash: 'sha256:5d1bf76235e2a212cd904e59fb9282952e3873e0bc4a4f043c1867ffc87b034d'}
+  - {seq: 11, filename: KR6q0244_011.yaml, hash: 'sha256:8ac1c5ed1ca756cd2f2cbaba438e96288d37130fe48a8ad66f0de3213f080919'}
+  - {seq: 12, filename: KR6q0244_012.yaml, hash: 'sha256:d165df009079d0831fae4fee1a603de9dc229bff019ef74c1c1a18979b5d1c98'}
+  - {seq: 13, filename: KR6q0244_013.yaml, hash: 'sha256:f60f57951d04ce7d2be280298edf80b4775d7361b7278c0cb6edf3d569c580a2'}
+  - {seq: 14, filename: KR6q0244_014.yaml, hash: 'sha256:f830dfc23b4d0d3d67c206c38aa351c1f18cbe8f1b70739b44e2919b510d1372'}
+  - {seq: 15, filename: KR6q0244_015.yaml, hash: 'sha256:efef7225bc14a7dfdee548e724fdb32b07fab7085e63f37e471e77d3c8cc60c8'}
+  - {seq: 16, filename: KR6q0244_016.yaml, hash: 'sha256:bc32f5dc8f7b127565bac02c5db749a8769e130001af7a8895d2ba0343d60b75'}
+  - {seq: 17, filename: KR6q0244_017.yaml, hash: 'sha256:7c78b88a7dfa31cf6fc68c4c7e5b995e72687733d395e185da8133a6de5cd19d'}
+  - {seq: 18, filename: KR6q0244_018.yaml, hash: 'sha256:72c1f06522bab1da8656e828f29adeee79c4ee41ee643d7acb0f3d563251857c'}
+  - {seq: 19, filename: KR6q0244_019.yaml, hash: 'sha256:d886d951cee62c7bb7c9218a55aec54f792fb554776d3199ab2a75f5a5dbdd65'}
+  - {seq: 20, filename: KR6q0244_020.yaml, hash: 'sha256:c339b57adbd63834bc926de0ff7910fe1014cb3fce28617fa3229ae3915d9aa7'}
+  - {seq: 21, filename: KR6q0244_021.yaml, hash: 'sha256:614e640d5ad700c6d108cc114578036e1b1076190a8fa1da5b5a8269366647f9'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6q0244_000.markers.yaml, hash: 'sha256:b450d996315985156ebfb1769cd55e5377aabdcbba1e37b662777be7ec2258ec'}
+  - {seq: 1, role: markers, filename: assets/KR6q0244_001.markers.yaml, hash: 'sha256:ee86055fe78f8e19b2794949cc1527973b843e1752da31ebb288c93abc1a2d06'}
+  - {seq: 2, role: markers, filename: assets/KR6q0244_002.markers.yaml, hash: 'sha256:83e9e92d2f8c7ade0e32d620683efc0e5a003793cb0e040183fd7f1a7a7aa3b8'}
+  - {seq: 3, role: markers, filename: assets/KR6q0244_003.markers.yaml, hash: 'sha256:698012d151efebf1cdd78bf3b78004aa18c9d344f697221768633fec69d3b729'}
+  - {seq: 4, role: markers, filename: assets/KR6q0244_004.markers.yaml, hash: 'sha256:7b3c5a4ebc689b33253ffdd0952262f7014a8c98f9ede72165f6efc7ae6efd57'}
+  - {seq: 5, role: markers, filename: assets/KR6q0244_005.markers.yaml, hash: 'sha256:f82617de0dd636e6ce200c8cb2d636f6a5b08c53133de42456a6c00bd9ba7088'}
+  - {seq: 6, role: markers, filename: assets/KR6q0244_006.markers.yaml, hash: 'sha256:b4181335e44f15324fc92dfca743ad8420cafea5073b78197e0931f47ad66aee'}
+  - {seq: 7, role: markers, filename: assets/KR6q0244_007.markers.yaml, hash: 'sha256:78b174ac29413a62d004d1466c69a25d6dd1e74a8fdbfa81c886212f85c21175'}
+  - {seq: 8, role: markers, filename: assets/KR6q0244_008.markers.yaml, hash: 'sha256:ade24e95766d0e7a58a3d8eb5b81ad6364c6409ffc62b4307fbc26883a6f1e41'}
+  - {seq: 9, role: markers, filename: assets/KR6q0244_009.markers.yaml, hash: 'sha256:01d0ddb92f34eb68df3d7ba501f0bbe8f647d5c4405a300c4bcb66cc29f17950'}
+  - {seq: 10, role: markers, filename: assets/KR6q0244_010.markers.yaml, hash: 'sha256:e06c5d2a4102dee11783a616a6df21497297a7735b8917bda2ec731eefef4022'}
+  - {seq: 11, role: markers, filename: assets/KR6q0244_011.markers.yaml, hash: 'sha256:f62de17e65fc5a85f87383b92e014423059dc6ecb13f08cbeb4f727ab840b361'}
+  - {seq: 12, role: markers, filename: assets/KR6q0244_012.markers.yaml, hash: 'sha256:3dff422a23499053da80405a3b706b87d9df859353d54fa3bdf99afbcc1824c6'}
+  - {seq: 13, role: markers, filename: assets/KR6q0244_013.markers.yaml, hash: 'sha256:38b9a35002763186582da32fcd95fb04ce9f848424c9592f7a12bb3bf8fde1ba'}
+  - {seq: 14, role: markers, filename: assets/KR6q0244_014.markers.yaml, hash: 'sha256:51176ddbdc9f74ca0598193c13aeb5896149f149b02b18bb73525e95edbaff14'}
+  - {seq: 15, role: markers, filename: assets/KR6q0244_015.markers.yaml, hash: 'sha256:e664a8f7965c2603d6b65f76b42346ecf0cc8537b3fff55af909f02262275d88'}
+  - {seq: 16, role: markers, filename: assets/KR6q0244_016.markers.yaml, hash: 'sha256:fb6cf3bac70289b06100649f05a1629c137a68b94ec56444bcbdd0225148a61c'}
+  - {seq: 17, role: markers, filename: assets/KR6q0244_017.markers.yaml, hash: 'sha256:5dfe59adaa9e765cb24df7ba911bcd012ef19386e54d32a4f0822de5818f3bc2'}
+  - {seq: 18, role: markers, filename: assets/KR6q0244_018.markers.yaml, hash: 'sha256:dd58c951504b8733093a50ba67eb97e7658133cc96e32fdb50c5c8b08f0dc440'}
+  - {seq: 19, role: markers, filename: assets/KR6q0244_019.markers.yaml, hash: 'sha256:3c28f0dc15d79dbdf9626da4f34ab9b881d1c9c1207d16138d4ab127c022d893'}
+  - {seq: 20, role: markers, filename: assets/KR6q0244_020.markers.yaml, hash: 'sha256:8c471eb0931e83fb5b40ec967359ccf3b46731287759870b7389864740a8cea5'}
+  - {seq: 21, role: markers, filename: assets/KR6q0244_021.markers.yaml, hash: 'sha256:532f7000dc04a76ebe7a49cc1736c319f21dfc53d9cdcdd6ea70932b92a55cba'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR6q0244_C_000-mulu-1
+    span:
+    - front
+    - 0
+    - 0
+  label: 序
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6q0244_C_000-mulu-2
+    span:
+    - front
+    - 10
+    - 10
+  label: 舊序
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6q0244_C_000-mulu-3
+    span:
+    - front
+    - 254
+    - 254
+  label: 本序
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6q0244_C_000-mulu-4
+    span:
+    - front
+    - 440
+    - 440
+  label: 通集序
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6q0244_C_000-mulu-5
+    span:
+    - front
+    - 972
+    - 972
+  label: 重刻序
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0244_C_001-juan-start
+    span:
+    - body
+    - 0
+    - 15424
+  label: 禪宗頌古聮珠通集卷第一　　　　雞一
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0244_C_001-mulu-1
+    span:
+    - body
+    - 41
+    - 41
+  label: 世尊及菩薩機緣
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0244_C_002-juan-start
+    span:
+    - body
+    - 0
+    - 8417
+  label: 禪宗頌古聮珠通集卷第二　　　　雞二
+  type: juan
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0244_C_002-mulu-1
+    span:
+    - body
+    - 17
+    - 17
+  label: 大乘經偈
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6q0244_C_003-juan-start
+    span:
+    - body
+    - 0
+    - 12451
+  label: 禪宗頌古聮珠通集卷第三　　　　雞三
+  type: juan
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6q0244_C_003-mulu-1
+    span:
+    - body
+    - 17
+    - 17
+  label: 祖師機緣
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6q0244_C_003-mulu-2
+    span:
+    - body
+    - 81
+    - 81
+  label: 西天諸祖
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6q0244_C_003-mulu-3
+    span:
+    - body
+    - 3535
+    - 3535
+  label: 東土諸祖
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6q0244_C_004-juan-start
+    span:
+    - body
+    - 0
+    - 13884
+  label: 禪宗頌古聮珠通集卷第四　　　　雞四
+  type: juan
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6q0244_C_004-mulu-1
+    span:
+    - body
+    - 120
+    - 120
+  label: 東土旁出諸祖
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6q0244_C_004-mulu-2
+    span:
+    - body
+    - 6667
+    - 6667
+  label: 六祖下第一世
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6q0244_C_004-mulu-3
+    span:
+    - body
+    - 9469
+    - 9469
+  label: 六祖下第二世
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6q0244_C_005-juan-start
+    span:
+    - body
+    - 0
+    - 15019
+  label: 禪宗頌古聮珠通集卷第五　　　　雞五
+  type: juan
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6q0244_C_005-mulu-1
+    span:
+    - body
+    - 62
+    - 62
+  label: 六祖下第三世之一
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6q0244_C_006-juan-start
+    span:
+    - body
+    - 0
+    - 15452
+  label: 禪宗頌古聮珠通集卷第六　　　　雞六
+  type: juan
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6q0244_C_006-mulu-1
+    span:
+    - body
+    - 186
+    - 186
+  label: 六祖下第三世之二
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6q0244_C_007-juan-start
+    span:
+    - body
+    - 0
+    - 12184
+  label: 禪宗頌古聮珠通集卷第七　　　　雞七
+  type: juan
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6q0244_C_007-mulu-1
+    span:
+    - body
+    - 63
+    - 63
+  label: 六祖下第三世之三
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6q0244_C_008-juan-start
+    span:
+    - body
+    - 0
+    - 14638
+  label: 禪宗頌古聮珠通集卷第八　　　　田一
+  type: juan
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6q0244_C_008-mulu-1
+    span:
+    - body
+    - 110
+    - 110
+  label: 六祖下第四世之一
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6q0244_C_009-juan-start
+    span:
+    - body
+    - 0
+    - 11495
+  label: 禪宗頌古聮珠通集卷第九　　　　田二
+  type: juan
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6q0244_C_009-mulu-1
+    span:
+    - body
+    - 45
+    - 45
+  label: 六祖下第四世之二
+  type: mulu
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6q0244_C_010-juan-start
+    span:
+    - body
+    - 0
+    - 10701
+  label: 禪宗頌古聮珠通集卷第十　　　　田三
+  type: juan
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6q0244_C_010-mulu-1
+    span:
+    - body
+    - 67
+    - 67
+  label: 六祖下第四世之三
+  type: mulu
+  level: 1
+- ref:
+    seq: 11
+    marker_id: KR6q0244_C_011-juan-start
+    span:
+    - body
+    - 0
+    - 16179
+  label: 禪宗頌古聮珠通集卷第十一　　　田四
+  type: juan
+  level: 1
+- ref:
+    seq: 11
+    marker_id: KR6q0244_C_011-mulu-1
+    span:
+    - body
+    - 83
+    - 83
+  label: 六祖下第五世之一
+  type: mulu
+  level: 1
+- ref:
+    seq: 12
+    marker_id: KR6q0244_C_012-juan-start
+    span:
+    - body
+    - 0
+    - 14034
+  label: 禪宗頌古聮珠通集卷第十二　　　田五
+  type: juan
+  level: 1
+- ref:
+    seq: 12
+    marker_id: KR6q0244_C_012-mulu-1
+    span:
+    - body
+    - 70
+    - 70
+  label: 六祖下第五世之二
+  type: mulu
+  level: 1
+- ref:
+    seq: 13
+    marker_id: KR6q0244_C_013-juan-start
+    span:
+    - body
+    - 0
+    - 13160
+  label: 禪宗頌古聮珠通集卷第十三　　　田六
+  type: juan
+  level: 1
+- ref:
+    seq: 13
+    marker_id: KR6q0244_C_013-mulu-1
+    span:
+    - body
+    - 125
+    - 125
+  label: 六祖下第五世之三
+  type: mulu
+  level: 1
+- ref:
+    seq: 13
+    marker_id: KR6q0244_C_013-mulu-2
+    span:
+    - body
+    - 5848
+    - 5848
+  label: 六祖下第六世之一
+  type: mulu
+  level: 1
+- ref:
+    seq: 14
+    marker_id: KR6q0244_C_014-juan-start
+    span:
+    - body
+    - 0
+    - 14466
+  label: 禪宗頌古聮珠通集卷第十四　　　田七
+  type: juan
+  level: 1
+- ref:
+    seq: 14
+    marker_id: KR6q0244_C_014-mulu-1
+    span:
+    - body
+    - 100
+    - 100
+  label: 六祖下第六世之二
+  type: mulu
+  level: 1
+- ref:
+    seq: 15
+    marker_id: KR6q0244_C_015-juan-start
+    span:
+    - body
+    - 0
+    - 13724
+  label: 禪宗頌古聮珠通集卷第十五　　　赤一
+  type: juan
+  level: 1
+- ref:
+    seq: 15
+    marker_id: KR6q0244_C_015-mulu-1
+    span:
+    - body
+    - 44
+    - 44
+  label: 六祖下第六世之三
+  type: mulu
+  level: 1
+- ref:
+    seq: 15
+    marker_id: KR6q0244_C_015-mulu-2
+    span:
+    - body
+    - 10567
+    - 10567
+  label: 六祖下第七世之一
+  type: mulu
+  level: 1
+- ref:
+    seq: 16
+    marker_id: KR6q0244_C_016-juan-start
+    span:
+    - body
+    - 0
+    - 10607
+  label: 禪宗頌古聮珠通集卷第十六　　　赤二
+  type: juan
+  level: 1
+- ref:
+    seq: 16
+    marker_id: KR6q0244_C_016-mulu-1
+    span:
+    - body
+    - 73
+    - 73
+  label: 六祖下第七世之二
+  type: mulu
+  level: 1
+- ref:
+    seq: 17
+    marker_id: KR6q0244_C_017-juan-start
+    span:
+    - body
+    - 0
+    - 11662
+  label: 禪宗頌古聮珠通集卷第十七　　　赤三
+  type: juan
+  level: 1
+- ref:
+    seq: 17
+    marker_id: KR6q0244_C_017-mulu-1
+    span:
+    - body
+    - 27
+    - 27
+  label: 六祖下第七世之三
+  type: mulu
+  level: 1
+- ref:
+    seq: 18
+    marker_id: KR6q0244_C_018-juan-start
+    span:
+    - body
+    - 0
+    - 15348
+  label: 禪宗頌古聮珠通集卷苐十八　　　赤四
+  type: juan
+  level: 1
+- ref:
+    seq: 18
+    marker_id: KR6q0244_C_018-mulu-1
+    span:
+    - body
+    - 21
+    - 21
+  label: 六祖下第七世之四
+  type: mulu
+  level: 1
+- ref:
+    seq: 18
+    marker_id: KR6q0244_C_018-mulu-2
+    span:
+    - body
+    - 6888
+    - 6888
+  label: 六祖下第八世之一
+  type: mulu
+  level: 1
+- ref:
+    seq: 18
+    marker_id: KR6q0244_C_018-mulu-3
+    span:
+    - body
+    - 7096
+    - 7096
+  label: 六祖下第八世之二
+  type: mulu
+  level: 1
+- ref:
+    seq: 19
+    marker_id: KR6q0244_C_019-juan-start
+    span:
+    - body
+    - 0
+    - 10015
+  label: 禪宗頌古聮珠通集卷第十九　　　赤五
+  type: juan
+  level: 1
+- ref:
+    seq: 19
+    marker_id: KR6q0244_C_019-mulu-1
+    span:
+    - body
+    - 41
+    - 41
+  label: 六祖下第九世第十世
+  type: mulu
+  level: 1
+- ref:
+    seq: 20
+    marker_id: KR6q0244_C_020-juan-start
+    span:
+    - body
+    - 0
+    - 10639
+  label: 禪宗頌古聮珠通集卷第二十　　　赤六
+  type: juan
+  level: 1
+- ref:
+    seq: 20
+    marker_id: KR6q0244_C_020-mulu-1
+    span:
+    - body
+    - 30
+    - 30
+  label: 六祖下第十一世第十二世
+  type: mulu
+  level: 1
+- ref:
+    seq: 20
+    marker_id: KR6q0244_C_020-mulu-2
+    span:
+    - body
+    - 9729
+    - 9729
+  label: 六祖下第十三世
+  type: mulu
+  level: 1
+- ref:
+    seq: 21
+    marker_id: KR6q0244_C_021-juan-start
+    span:
+    - body
+    - 0
+    - 9546
+  label: 禪宗頌古聮珠通集卷第二十一　　赤七
+  type: juan
+  level: 1
+- ref:
+    seq: 21
+    marker_id: KR6q0244_C_021-mulu-1
+    span:
+    - body
+    - 33
+    - 33
+  label: 六祖下第十四世至第二十一世
+  type: mulu
+  level: 1
+- ref:
+    seq: 21
+    marker_id: KR6q0244_C_021-mulu-2
+    span:
+    - body
+    - 6769
+    - 6769
+  label: 未詳承嗣
+  type: mulu
+  level: 1
+- ref:
+    seq: 21
+    marker_id: KR6q0244_C_021-mulu-3
+    span:
+    - body
+    - 9247
+    - 9247
+  label: 跋
+  type: mulu
+  level: 1
+- ref:
+    seq: 21
+    marker_id: KR6q0244_C_021-mulu-4
+    span:
+    - body
+    - 9247
+    - 9247
+  label: 徑山希陵題
+  type: mulu
+  level: 1
+- ref:
+    seq: 21
+    marker_id: KR6q0244_C_021-mulu-5
+    span:
+    - body
+    - 9432
+    - 9432
+  label: 靈隱淳朋拜書
+  type: mulu
+  level: 1
+hash: sha256:27069215fef64f1fb09b5ab3fc58be6c523ae61c6042ef0dfd35a811e42ab3fa
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e

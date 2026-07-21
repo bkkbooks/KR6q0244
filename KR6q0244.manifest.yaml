@@ -21,7 +21,7 @@ editions:
 - short: C
 assets:
   parts:
-  - {seq: 0, filename: KR6q0244_000.yaml, hash: 'sha256:ca0357108a6116982a069e0706ef670e33ff3d6b196f7344cf1a074b51237646'}
+  - {seq: 0, filename: KR6q0244_000.yaml, hash: 'sha256:a6754d10a92b907dd3ddbdd96dd38bd989fb0c2006eef3e21b02623d5716d895'}
   - {seq: 1, filename: KR6q0244_001.yaml, hash: 'sha256:a9cf14b1dac7f838df88d87d26572d8aafa947777135595e9a7251a381921fb7'}
   - {seq: 2, filename: KR6q0244_002.yaml, hash: 'sha256:58dbc7a33e63a750ec849355bb86880988c58e353170fd27a65fdd621e1e89ff'}
   - {seq: 3, filename: KR6q0244_003.yaml, hash: 'sha256:45583f85d5f0774593fc0b15027e86e2055566709562019042fc172f7380063c'}
@@ -44,7 +44,7 @@ assets:
   - {seq: 20, filename: KR6q0244_020.yaml, hash: 'sha256:87c8dfc6a5627641054e4137a497b861d51b7037c11cf2a100f4b4669718bae9'}
   - {seq: 21, filename: KR6q0244_021.yaml, hash: 'sha256:8269f57d39fea2e51f94c5440ba076ddda06a0feea8b5c6355dd81dbeb56088c'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6q0244_000.markers.yaml, hash: 'sha256:f105d8a4fc086edf4b6ee15320101b75851164b7d93da6e7f1204a51a8be467a'}
+  - {seq: 0, role: markers, filename: assets/KR6q0244_000.markers.yaml, hash: 'sha256:0e240b544757e8105fd54141f4ae7b56203ac72107526e6a22015890496c1246'}
   - {seq: 1, role: markers, filename: assets/KR6q0244_001.markers.yaml, hash: 'sha256:b77458705885451d1e1a6d50e1dfc0cf09e961d821c7b5f3f0a9bb3bb4b2973a'}
   - {seq: 2, role: markers, filename: assets/KR6q0244_002.markers.yaml, hash: 'sha256:37dc2e500e8fec128cf60d97b91633e1bcd0842a48517e84dcddde76ebb51f13'}
   - {seq: 3, role: markers, filename: assets/KR6q0244_003.markers.yaml, hash: 'sha256:484062ac7e1cb1c4f446203f7519c97b70d1c5fa9c5d5f04bca41efbe5a82b69'}
@@ -71,7 +71,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0244_C_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: 序
@@ -81,7 +81,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0244_C_000-mulu-2
     span:
-    - front
+    - body
     - 10
     - 10
   label: 舊序
@@ -91,7 +91,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0244_C_000-mulu-3
     span:
-    - front
+    - body
     - 254
     - 254
   label: 本序
@@ -101,7 +101,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0244_C_000-mulu-4
     span:
-    - front
+    - body
     - 440
     - 440
   label: 通集序
@@ -111,7 +111,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0244_C_000-mulu-5
     span:
-    - front
+    - body
     - 972
     - 972
   label: 重刻序
@@ -667,7 +667,7 @@ table_of_contents:
   label: 靈隱淳朋拜書
   type: mulu
   level: 1
-hash: sha256:7390afc8c0e3389d05547c3504db40fd537619736f649f94c31180c9a518ad34
+hash: sha256:f4b84ce6c69fc2e544973ca19121ee21352e662593a5a3c8f84c4b1f709f75c5
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
